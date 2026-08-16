@@ -72,8 +72,13 @@ Personal research page — interests, notes, and whatever is currently in progre
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=zsyverse&show_icons=true&hide_border=true&title_color=1769D2&icon_color=2D95E8&hide=issues" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsyverse&layout=compact&hide_border=true&title_color=1769D2&langs_count=6" alt="Top languages" />
+<br>
+
+[![Followers](https://img.shields.io/github/followers/zsyverse?style=flat-square&color=003F88&labelColor=1769D2&logo=github&logoColor=white)](https://github.com/zsyverse?tab=followers)
+[![algorithm-cards](https://img.shields.io/github/stars/zsyverse/algorithm-cards?style=flat-square&color=1769D2&labelColor=003F88&label=algorithm-cards)](https://github.com/zsyverse/algorithm-cards)
+[![zju-beamer-skill](https://img.shields.io/github/stars/zsyverse/zju-beamer-skill?style=flat-square&color=1769D2&labelColor=003F88&label=zju-beamer-skill)](https://github.com/zsyverse/zju-beamer-skill)
+
+<img src="https://ghchart.rshah.org/003F88/zsyverse" width="90%" alt="zsyverse's contribution graph" />
 
 </div>
 
