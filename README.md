@@ -6,6 +6,15 @@
 
 I build multimodal systems that **see, reason, retrieve, and act**.
 
+<details>
+<summary>🎵 Play a tiny welcome chime</summary>
+
+<br>
+
+<audio controls preload="none" src="https://raw.githubusercontent.com/zsyverse/zsyverse/main/profile-chime.wav">Your browser does not support the audio player.</audio>
+
+</details>
+
 [![Homepage](https://img.shields.io/badge/Research_Homepage-1769D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zsyverse.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zsyverse)
 [![Zhejiang University](https://img.shields.io/badge/ZJU-003F88?style=for-the-badge)](https://www.zju.edu.cn/)
