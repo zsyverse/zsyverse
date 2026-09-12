@@ -55,10 +55,22 @@ I build multimodal systems that **see, reason, retrieve, and act**.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zsyverse&show_icons=true&hide_border=true&title_color=1769D2&icon_color=1769D2&text_color=4B5563&bg_color=FFFFFF)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsyverse&layout=compact&hide_border=true&title_color=1769D2&text_color=4B5563&bg_color=FFFFFF)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zsyverse&show_icons=true&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zsyverse&show_icons=true&hide_border=true&title_color=1769D2&icon_color=1769D2&text_color=4B5563&bg_color=FFFFFF">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zsyverse&show_icons=true&hide_border=true&title_color=1769D2&icon_color=1769D2&text_color=4B5563&bg_color=FFFFFF">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zsyverse&layout=compact&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zsyverse&layout=compact&hide_border=true&title_color=1769D2&text_color=4B5563&bg_color=FFFFFF">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsyverse&layout=compact&hide_border=true&title_color=1769D2&text_color=4B5563&bg_color=FFFFFF">
+</picture>
 
-![Contribution graph](https://ghchart.rshah.org/1769D2/zsyverse)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/60a5fa/zsyverse">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/1769D2/zsyverse">
+  <img alt="Contribution graph" src="https://ghchart.rshah.org/1769D2/zsyverse" width="90%">
+</picture>
 
 </div>
 
