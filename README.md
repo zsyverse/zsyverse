@@ -2,63 +2,44 @@
 
 # zsyverse
 
-**Undergraduate at Zhejiang University · College of Electrical Engineering**
+### Zhejiang University · Vision-Language Models · Agents · Generative AI
 
-Working toward research in vision-language models and multimodal agents.
+I build multimodal systems that **see, reason, retrieve, and act**.
 
-[![Homepage](https://img.shields.io/badge/Homepage-zsyverse.github.io-1769D2?style=flat-square&logo=github&logoColor=white)](https://zsyverse.github.io/)
-[![ZJU](https://img.shields.io/badge/Zhejiang_University-003F88?style=flat-square)](https://www.zju.edu.cn/)
-[![Focus](https://img.shields.io/badge/Focus-VLM_·_Agent_·_World_Model-2D95E8?style=flat-square)](#research-interests)
+[![Homepage](https://img.shields.io/badge/Research_Homepage-1769D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zsyverse.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zsyverse)
+[![Zhejiang University](https://img.shields.io/badge/ZJU-003F88?style=for-the-badge)](https://www.zju.edu.cn/)
 
 </div>
 
----
+## About me
 
-## About
+- Undergraduate in the **College of Electrical Engineering, Zhejiang University**
+- Exploring reliable multimodal intelligence, from visual tokens to tool-using agents
+- Based in **Hangzhou, China**
 
-I am an undergraduate at Zhejiang University, studying in the College of Electrical
-Engineering. Most of what I build sits at the boundary between **perception and
-reasoning** — systems that take in images, video, or documents, and have to decide
-what to do with them rather than just describe them.
+## Research interests
 
-Day to day that means training and profiling multimodal models, building retrieval
-and agent pipelines, and writing the tooling that keeps those experiments
-reproducible. A fair amount of what I publish here is the tooling half: templates,
-generators, and study material that other people can pick up directly.
+<table>
+<tr>
+<td width="50%"><b>Vision-Language Models</b><br/>Visual token compression, long-video understanding, and grounded evaluation.</td>
+<td width="50%"><b>Agentic Systems</b><br/>Planning, retrieval, tool use, and verification loops that catch mistakes.</td>
+</tr>
+<tr>
+<td><b>World Models</b><br/>Learning dynamics that make imagined states useful for planning.</td>
+<td><b>Generative Models</b><br/>Controllable diffusion, autoregressive generation, and synthetic data.</td>
+</tr>
+</table>
 
-## Research Interests
+## Selected work
 
-| Direction | What I care about |
-|---|---|
-| **Vision-Language Models** | How visual tokens get compressed and selected under a fixed context budget — long-video understanding is where this hurts most, and where evaluation is easiest to fool. |
-| **Agents** | Multi-step tool use that stays grounded: planning, retrieval, and verification loops that catch their own mistakes instead of confidently continuing. |
-| **World Models** | Learned dynamics as a substrate for planning — what a model has to represent before "imagining the next state" becomes useful rather than decorative. |
-| **Generative Models** | Diffusion and autoregressive generation, especially controllability and how generated data feeds back into training. |
-
-## Selected Projects
-
-### 🎴 [algorithm-cards](https://github.com/zsyverse/algorithm-cards)
-
-54 one-page infographic cards covering the LeetCode Hot 100 and the 代码随想录
-roadmap — one card per algorithmic pattern, each with the definition, recognition
-signals, a worked diagram, C++ / Python templates, and a mnemonic. Ships as two
-ready-to-present slide decks plus the full generation scripts, so the whole set can
-be re-rendered or exported.
-
-`Python` · `Infographics` · `Interview prep`
-
-### 🎓 [zju-beamer-skill](https://github.com/zsyverse/zju-beamer-skill)
-
-The Zhejiang University LaTeX Beamer template, packaged as a skill an AI agent can
-invoke end to end. One sentence in, and the agent copies the resources, writes the
-`.tex`, compiles with XeLaTeX, and opens the PDF — official ZJU blue, 16:9, CJK
-mixed typesetting, and the usual academic components already wired up.
-
-`LaTeX` · `Beamer` · `AI Agent Skill`
-
-### 🌐 [Research Homepage](https://zsyverse.github.io/)
-
-Personal research page — interests, notes, and whatever is currently in progress.
+| Project | What it is |
+|:--|:--|
+| 🎮 [**game-ai-benchmarks-papers**](https://github.com/zsyverse/game-ai-benchmarks-papers) | Bilingual papers and benchmarks for AI game generation and interactive worlds. |
+| 🧩 [**awesome-multi-reference-agentic-image-generation**](https://github.com/zsyverse/awesome-multi-reference-agentic-image-generation) | Source-checked reading list on multi-reference and agentic image generation. |
+| 🎴 [**algorithm-cards**](https://github.com/zsyverse/algorithm-cards) | 54 visual algorithm cards with diagrams, C++/Python templates, and two slide decks. |
+| 🎓 [**zju-beamer-skill**](https://github.com/zsyverse/zju-beamer-skill) | An AI-invokable Zhejiang University Beamer workflow for polished academic slides. |
+| 🧠 [**textbook-integration-agent**](https://github.com/zsyverse/textbook-integration-agent) | Knowledge-graph and RAG agent for integrating textbooks and answering questions. |
 
 ## Toolbox
 
@@ -68,22 +49,20 @@ Personal research page — interests, notes, and whatever is currently in progre
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <div align="center">
 
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zsyverse&show_icons=true&hide_border=true&title_color=1769D2&icon_color=1769D2&text_color=4B5563&bg_color=FFFFFF)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsyverse&layout=compact&hide_border=true&title_color=1769D2&text_color=4B5563&bg_color=FFFFFF)
 
-[![Followers](https://img.shields.io/github/followers/zsyverse?style=flat-square&color=003F88&labelColor=1769D2&logo=github&logoColor=white)](https://github.com/zsyverse?tab=followers)
-[![algorithm-cards](https://img.shields.io/github/stars/zsyverse/algorithm-cards?style=flat-square&color=1769D2&labelColor=003F88&label=algorithm-cards)](https://github.com/zsyverse/algorithm-cards)
-[![zju-beamer-skill](https://img.shields.io/github/stars/zsyverse/zju-beamer-skill?style=flat-square&color=1769D2&labelColor=003F88&label=zju-beamer-skill)](https://github.com/zsyverse/zju-beamer-skill)
-
-<img src="https://ghchart.rshah.org/003F88/zsyverse" width="90%" alt="zsyverse's contribution graph" />
+![Contribution graph](https://ghchart.rshah.org/1769D2/zsyverse)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Reach me through <a href="https://zsyverse.github.io/">my homepage</a> · Hangzhou, China</sub>
+
+Open to research conversations and thoughtful collaborations · [zsyverse.github.io](https://zsyverse.github.io/)
+
 </div>
