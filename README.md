@@ -9,6 +9,7 @@ I build multimodal systems that **see, reason, retrieve, and act**.
 [![Homepage](https://img.shields.io/badge/Research_Homepage-1769D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zsyverse.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zsyverse)
 [![Zhejiang University](https://img.shields.io/badge/ZJU-003F88?style=for-the-badge)](https://www.zju.edu.cn/)
+[![Email](https://img.shields.io/badge/Email-3240102222%40zju.edu.cn-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3240102222@zju.edu.cn)
 
 </div>
 
@@ -63,6 +64,6 @@ I build multimodal systems that **see, reason, retrieve, and act**.
 
 <div align="center">
 
-Open to research conversations and thoughtful collaborations · [zsyverse.github.io](https://zsyverse.github.io/)
+Open to research conversations and thoughtful collaborations · [3240102222@zju.edu.cn](mailto:3240102222@zju.edu.cn) · [zsyverse.github.io](https://zsyverse.github.io/)
 
 </div>
